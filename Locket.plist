@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://shadowrocket.dvsteam.vn/dvsteamlogo.png</string>
+<string>https://raw.githubusercontent.com/Xwuan19/Locket-IPA/main/Locket%20Icon.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -27,7 +27,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://shadowrocket.dvsteam.vn/dvsteamlogo.png</string>
+<string>https://raw.githubusercontent.com/Xwuan19/Locket-IPA/main/Locket%20Icon.png</string>
 </dict>
 </array>
 <key>metadata</key>
